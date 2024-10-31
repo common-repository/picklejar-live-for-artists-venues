@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGC;;;sCACoB;EACnB,YAAY,EAAE,KAAK;EACnB,WAAW,EAAE,KAAK;;AAGnB;;;sCACoB;EACnB,SAAS,EAAE,KAAK",
+"sources": ["../../src/scss/plugin/elementor.scss"],
+"names": [],
+"file": "elementor.css"
+}

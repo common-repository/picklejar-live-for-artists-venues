@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="Picklejar Integration" min-version="2.0.14">
+    <domain name="picklejar-integration">
+        <project name="Picklejar Integration" slug="picklejar-integration">
+            <source>
+                <directory>includes</directory>
+            </source>
+            <target>
+                <directory>languages</directory>
+            </target>
+            <template>
+                <file>languages/picklejar-integration-es.pot</file>
+            </template>
+        </project>
+    </domain>
+</bundle>
